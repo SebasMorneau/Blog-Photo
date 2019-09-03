@@ -12,7 +12,6 @@ created by Sebastien Morneau
     box-sizing: border-box;
 }
 
-
 /* Header */
 nav {
     display: grid;
@@ -125,5 +124,3 @@ header section {
     background: linear-gradient(to right, #897a75, #182033);
     z-index: -1;
 }
-
-/* section of photos */
